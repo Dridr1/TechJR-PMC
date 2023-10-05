@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "25a65a1248b584c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61b4446fae64583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a248889c3740f9d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fed9fadd25aeb271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Produto/Desenvolvimento de Produto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16b018b0ada9595a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d72b02c6c7cf420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a97d92494f928d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aee155191f6d7172",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "978a649955f8a407",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f690d5765c153dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "79248a179a84d906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40394e2e50837e6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Produto/Desenvolvimento de Produto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29c5c6f7dc488954",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Produto/Desenvolvimento de Produto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9874295ff9554c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "519dbc494e18753e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Produto/Desenvolvimento de Produto.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fed9fadd25aeb271",
+  "lastOpenFiles": [
+    "Índice.md",
+    "Produto/Desenvolvimento de Produto.md",
+    "Software/Desenvolvimento de Software.md",
+    "Infraestrutura",
+    "Software",
+    "Produto"
+  ]
+}
